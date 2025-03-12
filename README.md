@@ -8,3 +8,5 @@ Assignment-3 : https://github.com/2303A52085/generative-AI/blob/main/Assignment_
 Assignment-4 : https://github.com/2303A52085/generative-AI/blob/main/Ass4.ipynb
 
 Assignment-5 : https://github.com/2303A52085/generative-AI/blob/main/Ass5.ipynb
+
+Assignment-6 : https://github.com/2303A52085/generative-AI/blob/main/Assignment_6.ipynb
