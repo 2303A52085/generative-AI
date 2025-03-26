@@ -12,3 +12,5 @@ Assignment-5 : https://github.com/2303A52085/generative-AI/blob/main/Ass5.ipynb
 Assignment-6 : https://github.com/2303A52085/generative-AI/blob/main/Assignment_6.ipynb
 
 Assignment-7 : https://github.com/2303A52085/generative-AI/blob/main/Assigment_7.ipynb
+
+Assignment-8 : https://github.com/2303A52085/generative-AI/blob/main/ASS_8.ipynb
